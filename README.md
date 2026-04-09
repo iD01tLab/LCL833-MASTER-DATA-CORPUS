@@ -7,7 +7,7 @@
 ## Project Status: Restricted Asset
 
 **Current Version:** April 2026 Unified Final Edition  
-**Official Record:** [DOI: 10.5281/zenodo.18743234](https://www.google.com/search?q=https://doi.org/10.5281/zenodo.18743234)
+**Official Record:** [[DOI: 10.5281/zenodo.18743234](https://www.google.com/search?q=https://doi.org/10.5281/zenodo.18743234)](https://doi.org/10.5281/zenodo.19478368)
 
 This repository serves as a metadata landing page and public pointer for the **LCL-832/833** and **SATI CODEX** frameworks. To preserve the intellectual property value and trade secret status of the core mathematical proofs and simulation kernels, the full master corpus has been transitioned to a **Restricted Access** archive on Zenodo.
 
